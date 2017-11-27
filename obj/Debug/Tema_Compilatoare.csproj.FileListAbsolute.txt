@@ -1,0 +1,8 @@
+c:\users\mihai\documents\visual studio 2015\Projects\Tema_Compilatoare\bin\Debug\Tema_Compilatoare.exe.config
+c:\users\mihai\documents\visual studio 2015\Projects\Tema_Compilatoare\bin\Debug\Tema_Compilatoare.exe
+c:\users\mihai\documents\visual studio 2015\Projects\Tema_Compilatoare\bin\Debug\Tema_Compilatoare.pdb
+c:\users\mihai\documents\visual studio 2015\Projects\Tema_Compilatoare\obj\Debug\Tema_Compilatoare.csprojResolveAssemblyReference.cache
+c:\users\mihai\documents\visual studio 2015\Projects\Tema_Compilatoare\obj\Debug\Tema_Compilatoare.exe
+c:\users\mihai\documents\visual studio 2015\Projects\Tema_Compilatoare\obj\Debug\Tema_Compilatoare.pdb
+c:\users\mihai\documents\visual studio 2015\Projects\Tema_Compilatoare\obj\Debug\Tema_Compilatoare.Properties.Resources.resources
+c:\users\mihai\documents\visual studio 2015\Projects\Tema_Compilatoare\obj\Debug\Tema_Compilatoare.csproj.GenerateResource.Cache
